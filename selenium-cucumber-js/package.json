@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "node_modules/.bin/cucumber-js -f @cucumber/pretty-formatter features/test.feature"  
+    "test": "node_modules/.bin/cucumber-js -f @cucumber/pretty-formatter features/searchGithub.feature"  
   },
   "keywords": [],
   "author": "satrio",
